@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501922625604",
+    "project_id": "winb-d0ac1",
+    "storage_bucket": "winb-d0ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501922625604:android:900be60a38823bcddd6411",
+        "android_client_info": {
+          "package_name": "com.example.winb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501922625604-g7i2bdqb56fvlmq53q5u4f2eq4rl1ot3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagat6ISJadv7NgyblBiOX08k0tryhudk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501922625604-g7i2bdqb56fvlmq53q5u4f2eq4rl1ot3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

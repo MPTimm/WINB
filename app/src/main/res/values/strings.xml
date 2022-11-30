@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WINB</string>
+    <string name="add_item">Add First Item</string>
+    <string name="enter_item">Enter Item name</string>
+    <string name="hint_item">Enter Name</string>
+    <string name="quantity">Enter Quantity</string>
+    <string name="save_button">Save</string>
+
+    <string name="item_name">Item Name</string>
+    <string name="item_qty">Quantity</string>
+    <string name="date_added">Date Added</string>
+    <string name="action_settings">Settings</string>
+</resources>
